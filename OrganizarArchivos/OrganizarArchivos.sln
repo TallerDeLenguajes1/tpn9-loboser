@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrganizarArchivos", "OrganizarArchivos\OrganizarArchivos.csproj", "{EC16F2F0-50E7-4BED-8B15-3DDC2A3E437F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EC16F2F0-50E7-4BED-8B15-3DDC2A3E437F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC16F2F0-50E7-4BED-8B15-3DDC2A3E437F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC16F2F0-50E7-4BED-8B15-3DDC2A3E437F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC16F2F0-50E7-4BED-8B15-3DDC2A3E437F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {81ABA322-8042-48EA-B62C-FF0C9AE9E9AB}
+	EndGlobalSection
+EndGlobal
